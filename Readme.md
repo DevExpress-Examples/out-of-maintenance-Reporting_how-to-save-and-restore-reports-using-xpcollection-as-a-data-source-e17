@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/XPOReport/Customer.cs) (VB: [Customer.vb](./VB/XPOReport/Customer.vb))
+* [Form1.cs](./CS/XPOReport/Form1.cs) (VB: [Form1.vb](./VB/XPOReport/Form1.vb))
+* [Program.cs](./CS/XPOReport/Program.cs) (VB: [Program.vb](./VB/XPOReport/Program.vb))
+* [XpoBaseReport.cs](./CS/XPOReport/XpoBaseReport.cs) (VB: [XpoBaseReport.vb](./VB/XPOReport/XpoBaseReport.vb))
+<!-- default file list end -->
 # How to save and restore reports using XPcollection as a data source
 
 
